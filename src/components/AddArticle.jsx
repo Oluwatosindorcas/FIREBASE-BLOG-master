@@ -142,7 +142,7 @@ export default function AddArticle() {
       className="form-control btn-primary mt-2"
       onClick={handlePublish}
     >
-      Publish
+      Publishs
     </button>
   </>
 )}
